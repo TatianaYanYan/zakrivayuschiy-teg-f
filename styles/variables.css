@@ -6,6 +6,10 @@
   --font-weight-text: 400;
   --main-font-size: 18px;
   --button-font-size: 14px;
+  --main-letter-spacing: 0px;
+  --line-height-title: 100%;
+  --line-height-dialog: 150%;
+  --line-height-button: 90%;
   --main-bg-color: #fff;
   --main-color: #000;
   --background-gradient: repeating-linear-gradient(
